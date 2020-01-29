@@ -1,0 +1,1 @@
+This is the read me for the python code to transfer the wanikani database into anki
